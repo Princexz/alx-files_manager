@@ -40,7 +40,17 @@ Start the Redis and MongoDB services on your system and run `yarn start-server` 
 + Create a separate `.env` file for the tests named `.env.test` and store the value of the environment variables for the testing event in it.
 + Run `yarn test` or `npm run test` to execute the E2E tests.
 
-## Authors
+## Author :black_nib:
 
-+ SUARA AYOMIDE
-+ ERIC ALARIBE
+* **Prince Solomon** [princexz](https://github.com/princexz)
+
+## Acknowledgements :pray:
+
+All work contained in this project was completed as part of the curriculum for ALX Africa SE. ALX Africa is an online full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning. For more information, visit [this link](https://www.alxafrica.com//).
+
+<p align="center">
+  <img
+   src="https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png"
+       alt="ALX Africa Logo"
+  >
+</p>
